@@ -1,3 +1,3 @@
  # chulo-docs
-Architecture, documentation, planning and technical specifications.
-                                                      
+Architecture, documentation, planning and technical specifications..
+                                                 
